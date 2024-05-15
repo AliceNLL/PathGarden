@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 Blue Vessel
 El Shalad

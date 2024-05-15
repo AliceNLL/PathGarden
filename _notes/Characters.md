@@ -16,4 +16,4 @@ title: Characters
 - [Telzi Havenbread](/_notes/Telzi%20Havenbread.md)
 - [Thjalfi Swiftfoot](/_notes/Thjalfi%20Swiftfoot.md)
 
-[Kora](/_notes/Kora.md)
+

@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 Haldoli state of Geb
 old greyderged farm
