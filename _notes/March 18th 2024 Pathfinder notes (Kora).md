@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 **Vision**: waters in the inner sea ghost ship legion toward north east of location (shining kingdoms) purple energy sword, murder living
 ghost captain with 2 heads comedic and tragedy both looking gruesome.
 ******
