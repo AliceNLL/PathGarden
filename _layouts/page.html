@@ -1,7 +1,22 @@
 ---
 layout: default
 ---
+<!-- File: _layouts/page.html -->
 
-<content>
-  {{ content }}
-</content>
+<div class="page-layout">
+  <header class="page-header">
+    <!-- Your page header content -->
+  </header>
+
+  <section class="sub-layout">
+    {% include sub_layout.html %}
+  </section>
+
+  <main class="page-content">
+    {{ content }}
+  </main>
+
+  <footer class="page-footer">
+    <!-- Your page footer content -->
+  </footer>
+</div>
